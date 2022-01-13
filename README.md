@@ -49,7 +49,8 @@ in package.json file add this line in script
 "start": "lite-server",
 ```
 
-**Step 06**
+**Step 07**
+
 You can view with npm start
 ```
 npm start
