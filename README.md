@@ -38,16 +38,16 @@ npm install jquery@3.3.1 popper.js@1.12.9 --save
 
 install the lite server
 
----
+```
 npm install --save-dev lite-server
----
+```
 
 **Step 06**
 
 in package.json file add this line in script
----
+```
 "start": "lite-server",
----
+```
 
 **Step 06**
 You can view with npm start
