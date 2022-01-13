@@ -34,8 +34,22 @@ npm install bootstrap@4.0.0 --save
 npm install jquery@3.3.1 popper.js@1.12.9 --save
 ```
 
-
 **Step 05**
+
+install the lite server
+
+---
+npm install --save-dev lite-server
+---
+
+**Step 06**
+
+in package.json file add this line in script
+---
+"start": "lite-server",
+---
+
+**Step 06**
 You can view with npm start
 ```
 npm start
